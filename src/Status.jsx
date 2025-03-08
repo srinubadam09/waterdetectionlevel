@@ -95,7 +95,7 @@ const Status = () => {
         }
 
         .wave1 {
-          top: -10;
+          top: 0;
           animation: waveMove 4s linear infinite;
         }
 
